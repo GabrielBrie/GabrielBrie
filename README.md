@@ -24,6 +24,7 @@ Currently diving into robotics, microcontrollers, and learning by creating.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=)
 ![Target3001](https://img.shields.io/badge/Target3001-orange?style=for-the-badge)
+![Micro-Cap 12](https://img.shields.io/badge/Micro--Cap%2012-1F4F0A?style=for-the-badge&logo=circles&logoColor=white)
 
 ---
 
