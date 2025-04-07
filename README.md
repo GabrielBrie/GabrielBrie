@@ -20,10 +20,7 @@ I strive to bridge the gap between hardware and software, creating innovative an
 
 ## 🔗 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn URL]
-- **GitHub:** [Your GitHub URL]
-- **Other:** [Optional URL]
-
+- **LinkedIn:** Coming Soon. 
 ---
 
 Feel free to reach out if you want to discuss tech, robotics, or any innovative project!
