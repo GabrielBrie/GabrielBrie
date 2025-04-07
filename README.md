@@ -1,4 +1,6 @@
-![Gabriel Brie Banner](./Gabriel-Brie-Banner.png)
+<p align="center">
+  <img src="./Gabriel-Brie-Banner.png" alt="Gabriel Brie Banner" />
+</p>
 
 <div align="center">
   
