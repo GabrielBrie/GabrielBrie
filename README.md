@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Gabriel Brie
 
-<!--
-**GabrielBrie/GabrielBrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Applied Electronics student with a passion for innovation in both hardware and software. Currently in my first year, I’m diving into the world of robotics and autonomous systems while building a strong foundation in embedded systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Embedded Systems & Programming:** Arduino, C, C++, Microcontrollers
+- **Web Development:** JavaScript, HTML, CSS
+- **Electronics Design:** Target3001, EasyEDA, Micro-Cap
+
+---
+
+## 🚀 Future Aspirations
+
+I strive to bridge the gap between hardware and software, creating innovative and efficient solutions. My current focus is on autonomous robotics, and I’m eager to expand my skills and explore new challenges as I progress in my studies.
+
+---
+
+## 🔗 Connect with Me
+
+- **LinkedIn:** [Your LinkedIn URL]
+- **GitHub:** [Your GitHub URL]
+- **Other:** [Optional URL]
+
+---
+
+Feel free to reach out if you want to discuss tech, robotics, or any innovative project!
