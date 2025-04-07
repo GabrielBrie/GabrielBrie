@@ -1,3 +1,5 @@
+![Gabriel Brie Banner](./gabriel-brie-banner.png)
+
 <div align="center">
   
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" />
