@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./Gabriel-Brie-Banner.png" alt="Gabriel Brie Banner" style="width:40%;" />
-</p>
-
 <div align="center">
   
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" />
