@@ -1,4 +1,4 @@
-![Gabriel Brie Banner](./gabriel-brie-banner.png)
+![Gabriel Brie Banner](./Gabriel-Brie-Banner.png)
 
 <div align="center">
   
