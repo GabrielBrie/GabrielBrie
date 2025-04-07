@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Gabriel-Brie-Banner.png" alt="Gabriel Brie Banner" style="width:50%;" />
+  <img src="./Gabriel-Brie-Banner.png" alt="Gabriel Brie Banner" style="width:40%;" />
 </p>
 
 <div align="center">
